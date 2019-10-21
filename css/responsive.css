@@ -1,0 +1,199 @@
+/* Ultra Medium Layout: 1367px. */
+
+@media only screen and (min-width: 1368px) and (max-width: 1586px) {
+  
+}
+
+/* Medium Monitor: 1367px. */
+
+@media only screen and (min-width: 1201px) and (max-width: 1367px) {
+  
+}
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  
+}
+
+
+@media only screen and (max-width: 992px) {
+
+  .prpimgs2{
+    padding-right: 0 !important;
+  }
+  
+  
+}
+@media only screen and (max-width: 1200px) {
+  
+  .imgredonda img{
+    left: 0vw;
+    top: 100px;
+    }
+    
+  }
+    
+    
+  
+@media only screen and (max-width: 991px) {
+  
+  .icons img{
+    width: 75px;
+    
+  }
+    
+  .imgredonda img{
+    left: 0vw;
+    height: 350px;
+    top: 100px;
+    }
+  .mimgredonda{
+    margin-top: -80px;
+  }
+
+  .pecuadro{
+    position: relative;
+    top:470px;
+    background-color: #f1f1f1;
+  }
+  .puntoencuentro{
+    margin-bottom: 200px;
+  }
+  .nav-menu{
+    background: black none repeat scroll 0 0;
+    -webkit-box-shadow: 0 4px 12px -4px rgba(0, 0, 0, 0.75);
+    box-shadow: 0 4px 12px -4px rgba(0, 0, 0, 0.75);
+    left: 0;
+    padding: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+  }
+
+    
+  }
+
+  @media only screen and (max-width: 560px) {
+    .puntoencuentro {
+      margin-bottom: 320px;
+    }
+
+    .owl-carousel .owl-item img {
+      height: 40vh;
+    }
+
+    .imgredonda img {
+      left: 0vw;
+      height: auto;
+      width: 100%;
+      top: 100px;
+    }
+  }
+@media only screen and (min-width: 992px) {
+  
+    .imgs2{
+      margin-right: -19.4%;
+    }
+  
+  }
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .divtexthleft{
+    top: 15vh;
+    left: 8%;
+  }
+
+  .divformhright{
+    top: 45vh;
+    left: 8%;
+    height: auto;
+    
+  }
+  
+
+    
+}
+
+/* Mobile Layout: 320px. */
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .divtexthleft{
+    top: 15vh;
+    left: 8%;
+    line-height: 0.89;
+    font-size: 64px;
+    
+  }
+
+  .divformhright{
+    top: 40vh;
+    left: 8%;
+    font-size: 22px;
+    width: auto;
+    height: auto;
+    
+  }
+  .h2sacercade{
+    font-size: 32px;
+        
+  }
+  .contactcng, .faqstitle{
+    font-size: 32px;
+  }
+  
+  
+}
+
+/* Small Mobile Layout: 480px. */
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+  .divtexthleft{
+    top: 15vh;
+    left: 8%;
+    line-height: 0.89;
+    font-size: 64px;
+    
+  }
+
+  .divformhright{
+    top: 40vh;
+    left: 8%;
+    font-size: 22px;
+    width: auto;
+    height: auto;
+        
+  }
+  .ppbr1{
+    padding-left: 20px !important;
+    padding-right: 0 !important;
+    padding-bottom: 20px !important; 
+  }
+  .text3h{
+    padding: 20px !important;
+  }
+  .h2sacercade{
+    font-size: 32px;
+        
+  }
+  .contactcng{
+    font-size: 32px;
+    
+  }
+  
+}
+
+/*big from small mobile, small from wide mobile*/
+
+@media only screen and (min-width: 380px) and (max-width: 480px) {
+  
+}
